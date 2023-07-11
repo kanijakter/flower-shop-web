@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.banner-container{
+    height: 120vh;
+    display: flex;
+    justify-content: space-around;
+    background-color:rgba(229, 84, 115, 0.1) ;
+    background-position: center;
+    background-size: cover;
+  
+    
+}
+.banner-info{
+    display: flex;
+    align-items: center; 
+    justify-content: space-around;
+  
+  margin-top: 80px;
+
+}
+.right-side-banner{  
+margin-right: 20px;
+width: 635px;
+height: 800px;
+flex-shrink: 0;
+}
+.btn{
+    display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+margin-top: 15px;
+}
+.primary{
+   margin-top: 15px;
+}
