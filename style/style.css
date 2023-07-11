@@ -3,12 +3,13 @@
     padding: 0px;
 }
 .banner-container{
-    height: 120vh;
+     height: 120vh; 
+ 
     display: flex;
-    justify-content: space-around;
+     justify-content: space-around;
     background-color:rgba(229, 84, 115, 0.1) ;
     background-position: center;
-    background-size: cover;
+    background-size: cover; 
   
     
 }
@@ -37,4 +38,16 @@ margin-top: 15px;
 }
 .primary{
    margin-top: 15px;
+}
+.deal-section{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    align-items: center
+    background-color: ;
+   
+}
+.sign-up{
+    text-align: center;
+    margin-right: 100px;
 }
