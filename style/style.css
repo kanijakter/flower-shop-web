@@ -38,7 +38,7 @@ background: #E55473;
 margin-top: 15px;
 }
 .primary{
-   margin-top: 15px;
+   margin-top: 10px;
 }
 .deal-section{
     display:flex;
@@ -75,15 +75,30 @@ margin-right: 250px;
     justify-content:space-between;
     align-items: center;
     text-align: center;
+    gap: 10px;
 
 }
-.one{
+/* .one{
     gap: 50px;
     margin-right: 10px;
     align-items: center;
-}
-.one-image{
+} */
+/* .one-image{
  margin-left: 20px;
+} */
+
+.info-part{
+    display: flex;
+    justify-content: center;
+    height: 60vh;
+    gap: 50px;
+    background-image: url(Rectangle\ 9.png);
+
 }
+.information{
+    margin-top: 100px;
+}
+.input-info{
+    padding: 10px ;
 
-
+}
