@@ -132,6 +132,10 @@ margin-right: 250px;
  text-align: center ;
  margin-bottom: 90px; 
 }
+.middle
+{
+   margin-top: 60px; 
+}
 .link-section{
     display: flex;
     text-align: center;
@@ -139,14 +143,7 @@ margin-right: 250px;
     gap: 10px;
     margin-top: 20px;
 }
-/* .one{
-    gap: 50px;
-    margin-right: 10px;
-    align-items: center;
-} */
-/* .one-image{
- margin-left: 20px;
-} */
+
 .image-contain
 {
     height: 100px;
@@ -167,7 +164,7 @@ margin-right: 250px;
 }
 .input-info{
     padding: 10px ;
-    width: 500px;
+    width: 400px;
     border: none;
     border-radius: 8px;
 
@@ -188,11 +185,21 @@ margin-right: 250px;
     color: #E55473;
 
 }
+.footer-heading{
+ font-family: Lato;
+font-size: 38px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
 .footer-paragraph-1{
-    font-size: 18px;
-    font-weight: 900;
+    font-family: Lato;
+    font-size: 10px;
+    font-weight: 300px;
 }
 .footer-paragraph-2{
+    font-family: Lato;
     color: gray;
+    font-size: 8px;
 
 }
